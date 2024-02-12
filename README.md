@@ -69,6 +69,8 @@ In addition, we have the below repositories.
 
 ## Security
 
+## CHANGE
+
 Please refer to our guide on [Reporting security vulnerabilities](SECURITY.md)
 
 ## Code of conduct
